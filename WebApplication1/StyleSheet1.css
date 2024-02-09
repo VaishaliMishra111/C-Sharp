@@ -1,0 +1,36 @@
+﻿body {
+
+}
+.text{
+    text-align:center;
+    background-color:lightblue;
+
+
+}
+#address{
+    font-size:15px;
+}
+#name{
+    font-size:40px;
+}
+.rightpane{
+    font-size:40px;
+    text-align:center;
+    width:74%;
+    top:72px;
+    left:347px;
+    position :absolute;
+    height:100%;
+    background-color:lightgoldenrodyellow;
+
+
+
+}
+.leftpane {
+    width: 25%;
+    height: 100%;
+    top: 74px;
+    left:7px;
+    position: absolute;
+    background-color: azure;
+}
